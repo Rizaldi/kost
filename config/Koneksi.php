@@ -4,7 +4,7 @@ class Koneksi {
 
 	private $host = "localhost";
 	private $user = "root";
-	private $pass = "";
+	private $pass = "ufyExRnfTPeh";
 	private $dbname = "kost";
 	private $db_connection = null;
 	
